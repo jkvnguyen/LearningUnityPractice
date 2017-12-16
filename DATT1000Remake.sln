@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATT1000Remake.CSharp.Plugins", "DATT1000Remake.CSharp.Plugins.csproj", "{1D2B173C-B5C7-E788-6C76-031F825DD893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATT1000Remake.CSharp", "DATT1000Remake.CSharp.csproj", "{E60661C3-D1E1-8069-3258-3A53AD3482ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATT1000Remake.CSharp.Editor.Plugins", "DATT1000Remake.CSharp.Editor.Plugins.csproj", "{BBD39124-9EE3-2477-3765-0A5CC0DF18DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATT1000Remake.CSharp.Editor", "DATT1000Remake.CSharp.Editor.csproj", "{6CB6CE78-FA26-1994-F0E0-E4582D283D00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2B173C-B5C7-E788-6C76-031F825DD893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2B173C-B5C7-E788-6C76-031F825DD893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2B173C-B5C7-E788-6C76-031F825DD893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2B173C-B5C7-E788-6C76-031F825DD893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60661C3-D1E1-8069-3258-3A53AD3482ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60661C3-D1E1-8069-3258-3A53AD3482ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60661C3-D1E1-8069-3258-3A53AD3482ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60661C3-D1E1-8069-3258-3A53AD3482ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD39124-9EE3-2477-3765-0A5CC0DF18DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD39124-9EE3-2477-3765-0A5CC0DF18DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD39124-9EE3-2477-3765-0A5CC0DF18DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD39124-9EE3-2477-3765-0A5CC0DF18DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB6CE78-FA26-1994-F0E0-E4582D283D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB6CE78-FA26-1994-F0E0-E4582D283D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB6CE78-FA26-1994-F0E0-E4582D283D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB6CE78-FA26-1994-F0E0-E4582D283D00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
